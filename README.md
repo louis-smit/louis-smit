@@ -1,8 +1,8 @@
+<!--
 ### Howzit 👋
 
 [![Mission Protocol](https://img.shields.io/badge/Mission%20Protocol-v1.1%20adopted-1553ef.svg)](code_of_conduct.md)
 
-<!--
 **louis-smit/louis-smit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
